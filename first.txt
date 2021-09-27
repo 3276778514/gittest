@@ -1,4 +1,4 @@
 git learning
-maybe something is chenged
+maybe something is changed
 add one line
-add two line
+add two line and change it
